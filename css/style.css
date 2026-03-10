@@ -5,7 +5,7 @@ html, body {
 
 body {
     background-color: #121315;
-    background: url(../img/90H.jpg);
+    background: url(../img/background2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -49,7 +49,7 @@ nav ul li a {
     display: inline-block;
     width: 150px;
     padding-top: 32px;
-    color: #3DA6C0;
+    color: #9B59B6;
     text-decoration: none; 
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
@@ -86,7 +86,7 @@ nav ul li a {
 }
 
 span {
-	color: #8bb2bc;
+	color: #C9A0DC;
 	font-size:18px;
 	font-weight:normal;
 	line-height:1.2em;
@@ -109,7 +109,7 @@ span {
 .portfolio h3 {
 	font-size: 42px;
 	font-weight: 100;
-	color: #3da8c3;
+	color: #9B59B6;
 }
 
 
@@ -134,13 +134,13 @@ span {
 .my-services h3 {
 	font-size: 42px;
 	font-weight: 100;
-	color: #3da8c3;
+	color: #9B59B6;
 }
 
 .my-skills-summary {
 	font-size: 42px;
 	font-weight: 100;
-	color: #3da8c3;
+	color: #9B59B6;
 }
 
 .about h3 {
@@ -159,14 +159,14 @@ span {
 .something-about h3 {
 	font-size: 42px;
 	font-weight: 100;
-	color: #3da8c3;
+	color: #9B59B6;
 }
 
 
 .contact-me h3 {
 	font-size: 42px;
 	font-weight: 100;
-	color: #3da8c3;
+	color: #9B59B6;
 }
 footer {
 	padding-bottom: 400px;
@@ -189,7 +189,7 @@ input[type=text], select, textarea {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-    background-color: #3DA6C0;
+    background-color: #9B59B6;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -199,7 +199,7 @@ input[type=submit] {
 
 /* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
-    background-color: #61D8D8;
+    background-color: #BE7FD9;
 }
 
 /* Add a background color and some padding around the form */
